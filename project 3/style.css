@@ -179,7 +179,7 @@ select {
   font-size: 19px;
   cursor: pointer;
 }
-select option:first-child {
+select option {
   color: black;
 }
 .style-select {
